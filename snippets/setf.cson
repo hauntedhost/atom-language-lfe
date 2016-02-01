@@ -1,0 +1,5 @@
+# Generated with Atomizr v0.14.0 - https://github.com/idleberg/atomizr
+'.source.lisp':
+  'setf':
+    'prefix': 'setf'
+    'body': '(setf ${1:place} ${2:value})'

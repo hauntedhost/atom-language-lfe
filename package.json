@@ -1,0 +1,19 @@
+{
+  "name": "language-lfe",
+  "version": "0.1.0",
+  "description": "Lisp Flavored Erlange (LFE) language support for Atom.",
+  "keywords": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:somlor/atom-language-lfe.git"
+  },
+  "license": "MIT",
+  "readme": "# language-lfe package\n\nLisp Flavored Erlang (LFE) language support for Atom.\n\nAdds syntax highlighting and snippets to LFE files in Atom.\n\n",
+  "readmeFilename": "README.md",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

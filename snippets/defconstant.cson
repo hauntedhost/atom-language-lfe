@@ -1,0 +1,8 @@
+# Generated with Atomizr v0.14.0 - https://github.com/idleberg/atomizr
+'.source.lisp':
+  'const':
+    'prefix': 'const'
+    'body': """
+      (defconstant +${1:name}+ ${2:value}
+      	\"${3:Documentation for $1.}\"))
+    """

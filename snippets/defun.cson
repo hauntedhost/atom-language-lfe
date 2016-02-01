@@ -1,0 +1,9 @@
+# Generated with Atomizr v0.14.0 - https://github.com/idleberg/atomizr
+'.source.lisp':
+  'fun':
+    'prefix': 'fun'
+    'body': """
+      (defun ${1:name} (${2:parameters})
+      	\"${3:Documentation for $1.}\"
+      	($0))
+    """

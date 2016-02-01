@@ -1,0 +1,8 @@
+# Generated with Atomizr v0.14.0 - https://github.com/idleberg/atomizr
+'.source.lisp':
+  'let':
+    'prefix': 'let'
+    'body': """
+      (let (${1:variables})
+      	($0))
+    """

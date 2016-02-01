@@ -1,0 +1,9 @@
+# Generated with Atomizr v0.14.0 - https://github.com/idleberg/atomizr
+'.source.lisp':
+  'mac':
+    'prefix': 'mac'
+    'body': """
+      (defmacro ${1:name} (${2:parameters})
+      	\"${3:Documentation for $1.}\"
+      	($0))
+    """
